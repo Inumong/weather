@@ -1,2 +1,2 @@
-# weather
-Simple weather forecasting CLI based bash script for linux environment.
+# Weather
+This is very simple and funny just gitclone and run bash 
