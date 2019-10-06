@@ -1,12 +1,6 @@
 #!/bin/bash
 echo "###############################################"
-echo -e "\e[34m __      __       _____ _             \e[0m"
-echo -e "\e[34m \ \    / /__ __ |_   _| |_  ___ _ _  \e[0m"
-echo -e "\e[34m  \ \/\/ / -_) _` || | | ! \/ -_) :_| \e[0m"
-echo -e "\e[34m  _\_/\_/\___\__,_||_| |_||_\___|_|   \e[0m"
-echo -e "\e[34m | __|__ _ _ ___ __ __ _ __| |_       \e[0m"
-echo -e "\e[34m | _/ _ \ |_/ -_) _/ _` (_-<  _|      \e[0m"
-echo -e "\e[34m |_|\___/_| \___\__\__,_/__/\__|      \e[0m"
+toilet -f smblock --filter border:metal -w 40 "Weather Forecast"
 echo "###############################################"
 echo -e "\e[1;31;42m #############© Technical Dada ###############\e[0m"
 echo -e "\e[31mUse Landscape For Mobile Devices\e[0m"
