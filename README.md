@@ -1,4 +1,4 @@
-# Weather
+# WeaTher Forecast
 This is very simple bash script. This will run in any linux environment including Termux.
 
 ## Installation
